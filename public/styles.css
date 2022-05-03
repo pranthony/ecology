@@ -75,12 +75,13 @@ button.google{
     color: #fff;
 }
 
-input.submit{
+button.submit{
     background-color: #fccb90;
     width: 50%;
     color: rgb(71, 60, 60);
     margin:15px 50% 0px;
     font-weight: 500;
+    cursor: pointer;
     
 }
 
@@ -193,9 +194,7 @@ input.header__input{
 }
 
 @media (max-width: 750px) {
-    button{
-        padding: 0px;
-    }
+    
     .hamburger{
         display: block;
     }
