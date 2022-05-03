@@ -176,12 +176,14 @@ input.header__input{
     overflow: hidden;
     box-shadow: 5px 5px 15px #b96ecc;
 }
+
 .app__card picture{
     height: 70%;
     display: grid;
     place-content: center;
     overflow: hidden;
 }
+
 .card__description{
     height: 30%;
     display: grid;
